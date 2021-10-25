@@ -1,0 +1,13 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "Notebook Mac Pro",
+            "price": 12000.99
+        },
+        {
+            "id": 2,
+            "name": "Caneta 123",
+            "price": 5.99
+        }
+    ]
+}
